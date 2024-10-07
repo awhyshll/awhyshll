@@ -7,7 +7,7 @@ I'm currently a **2nd-year BTech student in Computer Science Engineering** with 
 
 ## 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/madhuparna-ghosh-122463291/))
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/yourtwitterhandle](https://x.com/Madhuparna0_0))
+[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)][(https://x.com/yourxusername)](https://x.com/Madhuparna0_0)
 <!---
 awhyshll/awhyshll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
