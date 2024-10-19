@@ -4,7 +4,7 @@
 I'm currently a **2nd-year BTech student in Computer Science Engineering** with a passion for learning and building web-based applications. I have hands-on experience with **C language**, **HTML**, **CSS**, and **MySQL**, and I’m constantly expanding my knowledge in web development and programming.
 
 🌱 I’m actively learning more about front-end technologies to enhance my skills and contribute to meaningful projects. I enjoy problem-solving and working on collaborative projects, and I'm always looking for new opportunities to grow in the tech field.
-
+ 
 ## 🚀 Tech Stack
 - **Languages**: ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 - **Database**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
