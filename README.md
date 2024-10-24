@@ -1,4 +1,4 @@
-# Hello, I'm Madhuparna! 👋
+# *Hello, I'm Madhuparna! 👋*
 
 ## 💻 About Me
 I'm currently a **2nd-year BTech student in Computer Science Engineering** with a passion for learning and building web-based applications. I have hands-on experience with **C language**, **HTML**, **CSS**, and **MySQL**, and I’m constantly expanding my knowledge in web development and programming.
@@ -15,8 +15,9 @@ I'm currently a **2nd-year BTech student in Computer Science Engineering** with 
 [![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)]([https://x.com/yourxusername](https://x.com/Madhuparna0_0))
 
 ## 🚨Github Analytics
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=awhyshll&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=awhyshll&theme=radical)
-[![awhyshll's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=awhyshll&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/awhyshll/github-readme-activity-graph)
+[![awhyshll's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=awhyshll&theme=github-compact)](https://github.com/awhyshll/github-readme-activity-graph)
 <!---
 awhyshll/awhyshll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
