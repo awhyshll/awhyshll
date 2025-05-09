@@ -18,7 +18,7 @@ I'm currently a **2nd-year BTech student in Computer Science Engineering** with 
 ## 🚨Github Analytics
 ![Visitor Badge](https://komarev.com/ghpvc/?username=awhyshll&color=blueviolet) <br>
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=awhyshll&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=awhyshll&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=awhyshll&theme=radical)
 [![awhyshll's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=awhyshll&theme=github-compact)](https://github.com/awhyshll/github-readme-activity-graph)
 
 [![An image of @awhyshll's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/awhyshll)](https://holopin.io/@awhyshll)
