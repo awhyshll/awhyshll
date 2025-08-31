@@ -1,3 +1,5 @@
+[![An image of @awhyshll's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/awhyshll)](https://holopin.io/@awhyshll)
+
 # *Hello, I'm Madhuparna! 👋*
 
 ## 💻 About Me
@@ -21,7 +23,7 @@ I'm currently a **2nd-year BTech student in Computer Science Engineering** with 
 ![GitHub Streak](https://streak-stats.demolab.com?user=awhyshll&theme=radical)
 [![awhyshll's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=awhyshll&theme=github-compact)](https://github.com/awhyshll/github-readme-activity-graph)
 
-[![An image of @awhyshll's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/awhyshll)](https://holopin.io/@awhyshll)
+
 <!---
 awhyshll/awhyshll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
