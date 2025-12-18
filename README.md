@@ -3,7 +3,7 @@
 # *Hello, I'm Madhuparna!  👋*
 
 ## 💻 About Me
-I'm currently a **3rd-year BTech student in Computer Science Engineering** with a passion for learning and building innovative web-based applications. I have hands-on experience across multiple domains including **full-stack web development**, **machine learning**, and **sustainable tech solutions**. I'm constantly expanding my knowledge and working on projects that make a real-world impact. 
+I'm currently a **3rd-year BTech student in Computer Science Engineering** with a passion for learning and building innovative web-based applications. I have hands-on experience across multiple domains including **Web development**, **machine learning**, and **sustainable tech solutions**. I'm constantly expanding my knowledge and working on projects that make a real-world impact. 
 
 🌱 I'm actively learning more about AI integration, blockchain development, and advanced front-end technologies to enhance my skills and contribute to meaningful projects.  I enjoy problem-solving and working on collaborative projects, and I'm always looking for new opportunities to grow in the tech field.
 
