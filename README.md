@@ -61,9 +61,8 @@ I'm currently a **3rd-year BTech student in Computer Science Engineering** with 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=awhyshll&color=blueviolet&style=flat-square)  
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api? username=awhyshll&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="165"/>
-  <img src="https://streak-stats.demolab.com? user=awhyshll&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866" height="165"/>
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=awhyshll&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="165"/>
+</p> 
 
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=awhyshll&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF" alt="Activity Graph"/>
