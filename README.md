@@ -35,12 +35,6 @@ I'm currently a **3rd-year BTech student in Computer Science Engineering** with 
 - Scikit-learn
 - Jupyter Notebook
 
-### ⛓️ Blockchain
-![Solidity](https://skillicons.dev/icons?i=solidity)
-- Smart Contracts
-- EVM-compatible chains
-- Flow EVM
-
 ### 🛠️ Tools & Platforms  
 ![Git](https://skillicons.dev/icons?i=git) 
 ![GitHub](https://skillicons.dev/icons?i=github) 
