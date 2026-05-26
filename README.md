@@ -44,8 +44,6 @@
 ![Java](https://img.shields.io/badge/Java-F5C842?style=flat-square&logo=openjdk&logoColor=0D1117)
 ![Python](https://img.shields.io/badge/Python-F6A623?style=flat-square&logo=python&logoColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F5C842?style=flat-square&logo=javascript&logoColor=0D1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-F6A623?style=flat-square&logo=typescript&logoColor=0D1117)
-![Solidity](https://img.shields.io/badge/Solidity-F5C842?style=flat-square&logo=solidity&logoColor=0D1117)
 
 <br/>
 </details>
@@ -57,7 +55,6 @@
  <br/>
 
  ![React](https://img.shields.io/badge/React-F6A623?style=flat-square&logo=react&logoColor=0D1117)
- ![Next.js](https://img.shields.io/badge/Next.js-F5C842?style=flat-square&logo=nextdotjs&logoColor=0D1117)
  ![Vite](https://img.shields.io/badge/Vite-F6A623?style=flat-square&logo=vite&logoColor=0D1117)
  ![TailwindCSS](https://img.shields.io/badge/Tailwind-F5C842?style=flat-square&logo=tailwindcss&logoColor=0D1117)
  ![Node.js](https://img.shields.io/badge/Node.js-F6A623?style=flat-square&logo=nodedotjs&logoColor=0D1117)
@@ -71,8 +68,6 @@
  <summary><b>AI & ML</b></summary>
  <br/>
 
- ![TensorFlow](https://img.shields.io/badge/TensorFlow-F6A623?style=flat-square&logo=tensorflow&logoColor=0D1117)
- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F5C842?style=flat-square&logo=scikitlearn&logoColor=0D1117)
  ![Streamlit](https://img.shields.io/badge/Streamlit-F6A623?style=flat-square&logo=streamlit&logoColor=0D1117)
  ![Gemini](https://img.shields.io/badge/Google_Gemini-F5C842?style=flat-square&logo=google&logoColor=0D1117)
  
@@ -112,10 +107,6 @@
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20%2F%20ML-F5C842?style=flat-square&logoColor=0D1117"/></td>
     <td>Predictive models and data analysis</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/%F0%9F%94%97%20Blockchain-F6A623?style=flat-square&logoColor=0D1117"/></td>
-    <td>Smart contracts & decentralized apps</td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/%F0%9F%8C%BF%20Sustainable%20Tech-F5C842?style=flat-square&logoColor=0D1117"/></td>
