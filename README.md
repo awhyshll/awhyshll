@@ -1,72 +1,179 @@
-[![An image of @awhyshll's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/awhyshll)](https://holopin.io/@awhyshll)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=140&section=header" width="100%"/>
+</div>
 
-# *Hello, I'm Madhuparna!  👋*
+<br/>
 
-## 💻 About Me
-I'm currently a **3rd-year BTech student in Computer Science Engineering** with a passion for learning and building innovative web-based applications. I have hands-on experience across multiple domains including **Web development**, **machine learning**, and **sustainable tech solutions**. I'm constantly expanding my knowledge and working on projects that make a real-world impact. 
+<div align="center">
+  <h1>Hey there!!! I'm Madhuparna >~< </h1>
+</div>
 
-🌱 I'm actively learning more about AI integration, blockchain development, and advanced front-end technologies to enhance my skills and contribute to meaningful projects.  I enjoy problem-solving and working on collaborative projects, and I'm always looking for new opportunities to grow in the tech field.
+<br/>
 
-## 🚀 Tech Stack  
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/215283228-89a6af16-23b1-4144-ac9b-064dc973b3db.gif" width="280" align="right" />
 
-### 👨‍💻 Languages  
-![C](https://skillicons.dev/icons?i=c) 
-![HTML](https://skillicons.dev/icons?i=html) 
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Python](https://skillicons.dev/icons?i=python)
-![Solidity](https://skillicons.dev/icons?i=solidity)
+  <p>
+    I'm currently a <strong>3rd-year BTech student</strong> in Computer Science Engineering with a passion for learning and building innovative web-based applications.<br/><br/>
+    I have hands-on experience across multiple domains including <strong>Web Development</strong>, <strong>Machine Learning</strong>, and <strong>AI</strong>. I'm constantly expanding my knowledge and working on projects that make a real-world impact.<br/><br/>
+    I'm actively learning more about AI integration and advanced front-end technologies to enhance my skills and contribute to meaningful projects. I enjoy problem-solving and collaborative work, and I'm always looking for new opportunities to grow in the tech field.
+  </p>
 
-### 🗄️ Database  
-![MySQL](https://skillicons.dev/icons?i=mysql)
+  <br clear="right"/>
+</div>
 
-### 📚 Frameworks & Libraries
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Vite](https://skillicons.dev/icons?i=vite)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-
-### 🤖 AI & ML
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-- Google Generative AI (Gemini)
-- Streamlit
-- Scikit-learn
-- Jupyter Notebook
-
-### 🛠️ Tools & Platforms  
-![Git](https://skillicons.dev/icons?i=git) 
-![GitHub](https://skillicons.dev/icons?i=github) 
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Postman](https://skillicons.dev/icons?i=postman)
+<br/><br/>
 
 ---
 
-## 🔗 Let's Connect  
+<br/>
+<div align="center">
+ 
+ <h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28" align="center" />
+  &nbsp;Tech Stack
+ </h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuparna-ghosh-122463291/)  
-[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Madhuparna0_0)  
+ <br/>
+
+ <details open>
+  <summary><b>Languages</b></summary> 
+ <br/>
+
+![C](https://img.shields.io/badge/C-F6A623?style=flat-square&logo=c&logoColor=0D1117)
+![Java](https://img.shields.io/badge/Java-F5C842?style=flat-square&logo=openjdk&logoColor=0D1117)
+![Python](https://img.shields.io/badge/Python-F6A623?style=flat-square&logo=python&logoColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-F5C842?style=flat-square&logo=javascript&logoColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-F6A623?style=flat-square&logo=typescript&logoColor=0D1117)
+![Solidity](https://img.shields.io/badge/Solidity-F5C842?style=flat-square&logo=solidity&logoColor=0D1117)
+
+<br/>
+</details>
+
+ <br/>
+
+ <details open>
+ <summary><b>Frameworks & Libraries</b></summary>
+ <br/>
+
+ ![React](https://img.shields.io/badge/React-F6A623?style=flat-square&logo=react&logoColor=0D1117)
+ ![Next.js](https://img.shields.io/badge/Next.js-F5C842?style=flat-square&logo=nextdotjs&logoColor=0D1117)
+ ![Vite](https://img.shields.io/badge/Vite-F6A623?style=flat-square&logo=vite&logoColor=0D1117)
+ ![TailwindCSS](https://img.shields.io/badge/Tailwind-F5C842?style=flat-square&logo=tailwindcss&logoColor=0D1117)
+ ![Node.js](https://img.shields.io/badge/Node.js-F6A623?style=flat-square&logo=nodedotjs&logoColor=0D1117)
+
+ <br/>
+ </details>
+
+ <br/>
+
+ <details open>
+ <summary><b>AI & ML</b></summary>
+ <br/>
+
+ ![TensorFlow](https://img.shields.io/badge/TensorFlow-F6A623?style=flat-square&logo=tensorflow&logoColor=0D1117)
+ ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F5C842?style=flat-square&logo=scikitlearn&logoColor=0D1117)
+ ![Streamlit](https://img.shields.io/badge/Streamlit-F6A623?style=flat-square&logo=streamlit&logoColor=0D1117)
+ ![Gemini](https://img.shields.io/badge/Google_Gemini-F5C842?style=flat-square&logo=google&logoColor=0D1117)
+ 
+ <br/>
+ </details>
+
+ <br/>
+
+ <details open>
+ <summary><b>Tools & Platforms</b></summary>
+ <br/>
+
+ ![Git](https://img.shields.io/badge/Git-F6A623?style=flat-square&logo=git&logoColor=0D1117)
+ ![GitHub](https://img.shields.io/badge/GitHub-F5C842?style=flat-square&logo=github&logoColor=0D1117)
+ ![VSCode](https://img.shields.io/badge/VSCode-F6A623?style=flat-square&logo=visualstudiocode&logoColor=0D1117)
+ ![Postman](https://img.shields.io/badge/Postman-F5C842?style=flat-square&logo=postman&logoColor=0D1117)
+ ![MySQL](https://img.shields.io/badge/MySQL-F6A623?style=flat-square&logo=mysql&logoColor=0D1117)
+
+ <br/>
+ </details>
+</div>
+<br/><br/>
 
 ---
 
-## 📊 GitHub Analytics  
+<br/>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=awhyshll&color=blueviolet&style=flat-square)  
+<h2 align="center"> Focus Areas ^ ^</h2>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=awhyshll&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="165"/>
-</p> 
+<br/>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awhyshll&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF" alt="Activity Graph"/>
-</p>  
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/%E2%9A%A1%20Web%20Development-F6A623?style=flat-square&logoColor=0D1117"/></td>
+    <td>Full-stack apps with modern frameworks</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20%2F%20ML-F5C842?style=flat-square&logoColor=0D1117"/></td>
+    <td>Predictive models and data analysis</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/%F0%9F%94%97%20Blockchain-F6A623?style=flat-square&logoColor=0D1117"/></td>
+    <td>Smart contracts & decentralized apps</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/%F0%9F%8C%BF%20Sustainable%20Tech-F5C842?style=flat-square&logoColor=0D1117"/></td>
+    <td>Green technology solutions</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/%F0%9F%8E%A8%20UI%2FUX-F6A623?style=flat-square&logoColor=0D1117"/></td>
+    <td>Responsive, user-centered design</td>
+  </tr>
+</table>
+
+<br/><br/>
 
 ---
 
-## 🎯 Focus Areas
-- **Web Development**:  Full-stack applications with modern frameworks
-- **Blockchain**: Smart contracts and decentralized applications
-- **Machine Learning**:  Predictive models and data analysis
-- **Sustainable Tech**: Environmental impact and green technology solutions
-- **UI/UX**:  Responsive design and user-centered interfaces
+<br/>
+
+<div align="center">
+  <h2>🔗 Connect Me</h2>
+
+  <br/>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-F6A623?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/madhuparna-ghosh-122463291/)
+  &nbsp;&nbsp;
+  [![X](https://img.shields.io/badge/X_%2F_Twitter-F5C842?style=for-the-badge&logo=x&logoColor=0D1117)](https://x.com/Madhuparna0_0)
+</div>
+
+<br/><br/>
+
+---
+
+<br/>
+
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+
+  <br/>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=awhyshll&color=F6A623&style=for-the-badge&label=Profile+Views)
+  ![Joined GitHub](https://img.shields.io/badge/Joined%20GitHub-2023-F6A623?style=for-the-badge&logo=github&logoColor=0D1117)
+
+  <br/><br/>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"/>
+
+  <br/><br/>
+
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=awhyshll&hide_border=true&background=0D1117&ring=F6A623&fire=F5C842&currStreakLabel=F5C842&sideLabels=F6A623&dates=F5C842&currStreakNum=F6A623&sideNums=F5C842&stroke=F6A623" height="160"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awhyshll&theme=github-compact&hide_border=true&bg_color=0D1117&color=F5C842&line=F6A623&point=ffffff" width="100%"/>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer" width="100%"/>
+</div>
