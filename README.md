@@ -22,7 +22,7 @@
   <br clear="right"/>
 </div>
 
-<br/><br/>
+
 
 ---
 
@@ -34,7 +34,6 @@
   &nbsp;Tech Stack
  </h2>
 
- <br/>
 
  <details open>
   <summary><b>Languages</b></summary> 
@@ -48,7 +47,6 @@
 <br/>
 </details>
 
- <br/>
 
  <details open>
  <summary><b>Frameworks & Libraries</b></summary>
@@ -62,8 +60,6 @@
  <br/>
  </details>
 
- <br/>
-
  <details open>
  <summary><b>AI & ML</b></summary>
  <br/>
@@ -73,8 +69,6 @@
  
  <br/>
  </details>
-
- <br/>
 
  <details open>
  <summary><b>Tools & Platforms</b></summary>
@@ -89,7 +83,7 @@
  <br/>
  </details>
 </div>
-<br/><br/>
+
 
 ---
 
@@ -118,7 +112,7 @@
   </tr>
 </table>
 
-<br/><br/>
+
 
 ---
 
@@ -134,8 +128,6 @@
   [![X](https://img.shields.io/badge/X_%2F_Twitter-F5C842?style=for-the-badge&logo=x&logoColor=0D1117)](https://x.com/Madhuparna0_0)
 </div>
 
-<br/><br/>
-
 ---
 
 <br/>
@@ -148,22 +140,17 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=awhyshll&color=F6A623&style=for-the-badge&label=Profile+Views)
   ![Joined GitHub](https://img.shields.io/badge/Joined%20GitHub-2023-F6A623?style=for-the-badge&logo=github&logoColor=0D1117)
 
-  <br/><br/>
 
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"/>
-
-  <br/><br/>
 
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=awhyshll&hide_border=true&background=0D1117&ring=F6A623&fire=F5C842&currStreakLabel=F5C842&sideLabels=F6A623&dates=F5C842&currStreakNum=F6A623&sideNums=F5C842&stroke=F6A623" height="160"/>
 
-  <br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=awhyshll&theme=github-compact&hide_border=true&bg_color=0D1117&color=F5C842&line=F6A623&point=ffffff" width="100%"/>
 
 </div>
 
-<br/><br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer" width="100%"/>
